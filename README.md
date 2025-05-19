@@ -1,78 +1,60 @@
-# Revenue Insights in Hospitality Domain 📊🏨
+# 📊 Hospitality Revenue Insights Dashboard (Power BI)
 
-This Power BI project provides comprehensive revenue and booking insights across multiple hotel properties, enabling data-driven decision-making for stakeholders in the hospitality industry.
+This Power BI project provides actionable revenue and booking insights for the hospitality domain, helping stakeholders monitor key performance indicators and make data-driven decisions.
 
 ---
 
 ## 📁 Project Overview
 
-- **Project Type**: Business Intelligence / Data Visualization
-- **Tool Used**: Power BI
+- **Tool Used**: Microsoft Power BI
 - **Dataset Size**: 50,000+ booking records
-- **Scope**: 12 hotel locations
+- **Scope**: Multiple hotel properties from different regions
+- **Data Source**: Raw booking and revenue dataset (anonymized)
 
 ---
 
 ## 🎯 Objectives
 
-- Track key revenue performance metrics like:
+- Monitor and analyze hotel revenue, booking trends, and performance.
+- Track KPIs like:
   - **RevPAR (Revenue per Available Room)**
   - **ADR (Average Daily Rate)**
   - **Occupancy Rate**
-- Analyze booking and revenue trends across:
-  - Regions
-  - Room types
-  - Booking channels (OTA, Direct, Walk-in)
+- Compare revenue contributions by:
+  - Booking channels (OTA, Direct, Corporate, Walk-in)
+  - Room types (Standard, Deluxe, Suite, etc.)
+  - Time period (monthly, yearly, quarterly)
 - Identify:
-  - Peak seasons (Q3 contributed 40% of revenue)
-  - OTAs as top booking contributors (55%)
-  - 15% YoY revenue growth
-  - 25% revenue boost from targeted marketing campaigns
+  - **Peak seasons** contributing significantly to yearly revenue.
+  - **Top booking channels** (e.g., **OTAs account for ~55%** of bookings).
+  - **15% Year-over-Year (YoY)** increase in total revenue.
+  - **25% growth** attributed to targeted marketing efforts.
 
 ---
 
-## ⚙️ Key Features
+## ⚙️ Features & Functionalities
 
-- Interactive Power BI dashboard with slicers
-- Dynamic filtering by region, room type, and channel
-- Clean DAX measures and reusable KPIs
-- Drill-through navigation for detailed analysis
-- Trend visualizations and performance comparisons
+- **Interactive Power BI dashboard**
+- **Slicers** for region, room type, and channel-based filtering
+- **Custom DAX measures** for dynamic calculations
+- Clean layout with:
+  - Monthly/Yearly trends
+  - KPI cards
+  - Visual breakdowns (bar/line/pie charts)
+- Drill-throughs for granular data exploration
+
+---
+
+## 🧠 Key Insights
+
+- Majority of bookings came through **Online Travel Agencies (OTAs)**.
+- Occupancy rate steadily increased in Q3, contributing **~40% of annual revenue**.
+- ADR and RevPAR improved post-marketing campaign.
+- Clear seasonal trends indicating higher demand during mid-year months.
 
 ---
 
 ## 📷 Screenshots
 
-> *(Optional)* You can upload dashboard screenshots and embed like this:
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
 
----
-
-## 🧠 Learnings
-
-- Hands-on experience with DAX and Power BI visuals
-- Data modeling and KPI formulation
-- Communicating business insights through visualization
-- Stakeholder-focused BI report design
-
----
-
-## 📦 File
-
-- `Revenue Insights in Hospitality Domain.pbix` — Main Power BI dashboard
-
----
-
-## 🧑‍💻 Author
-
-**Abhishek Kale**  
-[LinkedIn Profile](https://www.linkedin.com/in/abhishekkale99) *(Optional)*  
-Email: abhishekkale@gmail.com  
-Location: Pune, India
-
----
-
-## 📌 License
-
-This project is for educational and portfolio purposes.
