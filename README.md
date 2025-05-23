@@ -7,7 +7,7 @@ This Power BI project provides actionable revenue and booking insights for the h
 ## 📁 Project Overview
 
 - **Tool Used**: Microsoft Power BI
-- **Dataset Size**: 50,000+ booking records
+- **Dataset Size**: 10,000+ booking records
 - **Scope**: Multiple hotel properties from different regions
 - **Data Source**: Raw booking and revenue dataset (anonymized)
 
@@ -56,5 +56,6 @@ This Power BI project provides actionable revenue and booking insights for the h
 
 ## 📷 Screenshots
 
+![Screenshot (30)](https://github.com/user-attachments/assets/c81a43d9-3f59-412f-8c05-6c738e9c3092)
 
 
